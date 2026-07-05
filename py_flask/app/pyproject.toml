@@ -1,0 +1,9 @@
+[project]
+name = "py_flash"
+version = "0.1.0"
+description = "python program flask hello world web home page example."
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+]
+
